@@ -1014,7 +1014,7 @@ Script System Initialization
 <58:24> <Lua> cyap killed Mike Killah with M4
 <58:30> <Lua> Scrap killed CLAVEL with AG36
 <58:32> <Lua> papazark killed Scrap with VehicleRocket
-<00:01> <Lua> papazark killed lamonthe with VehicleRocket
+<58:32> <Lua> papazark killed lamonthe with VehicleRocket
 <58:37> ================================================================================
 <58:37> == Statistics                                                                 ==
 <58:37> ================================================================================

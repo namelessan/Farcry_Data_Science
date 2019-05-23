@@ -876,7 +876,7 @@ Script System Initialization
 <52:43> <Lua> papazark killed lamonthe with M4
 <52:43> <Lua> lamonthe killed papazark with VehicleRocket
 <52:59> <Lua> cyap killed papazark with AG36Grenade
-<00:09> <Lua> cyap killed lamonthe with AG36Grenade
+<53:09> <Lua> cyap killed lamonthe with AG36Grenade
 <53:17> ================================================================================
 <53:17> == Statistics                                                                 ==
 <53:17> ================================================================================

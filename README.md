@@ -1,4 +1,5 @@
-Essential component:
+ESSENTIAL COMPONENT:
 - Python3
-- Navicat Data Modeler
-- sqlitebrowser
+- Sqlite browser
+- psycopg2
+- postgresql
